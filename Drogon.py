@@ -37,6 +37,7 @@ tiro.set_volume(0.1)
 menupic = pygame.image.load("imagens/menu 2.png")
 # menu.convert()
 
+
 # criando as vareaveis
 executando = False
 acertei = False
